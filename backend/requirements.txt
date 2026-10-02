@@ -2,5 +2,6 @@ flask
 flask-cors
 flask-limiter
 google-genai
+requests
 python-dotenv
 gunicorn
